@@ -1,7 +1,7 @@
 # NHD-160128WG-Example
 Example Arduino code for NHD-160128WG.
 
-Target: `Arduino`\
+Target: `Arduino MEGA`\
 Language: `Arduino Sketch`\
 Interface: `8-bit Parallel`\
 Display Voltage: `5V`\
