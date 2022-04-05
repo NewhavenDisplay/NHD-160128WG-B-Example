@@ -1,8 +1,8 @@
 /**
- * @file NHD_160128WG_BTGH_VZ_1.ino
+ * @file NHD_160128WG_example.ino
  * @brief Program for writing to Newhaven Display 160x128 graphic LCD with RA6963 controller.
  *        This program draws vertical bars on the screen using 8-bit parallel.
- * @date 2-9-2022
+ * @date 4-5-2022
  * 
  * (c)2022 Cody Johnson - Newhaven Display International, LLC.
  * 
